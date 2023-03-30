@@ -1,0 +1,17 @@
+#btn1 , #btn2 , #btn3 , #btn4 , #btn5{
+    background-color: white;
+    font-size: 35px;
+    width: 400px;
+    border-radius: 50px;
+    margin-top: 70px;
+    line-height: 2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading{
+    color: red;
+    background-color: white;
+    width: 600px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
